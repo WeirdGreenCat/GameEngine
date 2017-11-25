@@ -7,16 +7,22 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameEngine", "GameEngine\Ga
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
+		DebugD|x64 = DebugD|x64
+		DebugD|x86 = DebugD|x86
+		DebugN|x64 = DebugN|x64
+		DebugN|x86 = DebugN|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.Debug|x64.ActiveCfg = Debug|x64
-		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.Debug|x64.Build.0 = Debug|x64
-		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.Debug|x86.ActiveCfg = Debug|Win32
-		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.Debug|x86.Build.0 = Debug|Win32
+		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.DebugD|x64.ActiveCfg = DebugD|x64
+		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.DebugD|x64.Build.0 = DebugD|x64
+		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.DebugD|x86.ActiveCfg = DebugD|Win32
+		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.DebugD|x86.Build.0 = DebugD|Win32
+		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.DebugN|x64.ActiveCfg = Debug|x64
+		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.DebugN|x64.Build.0 = Debug|x64
+		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.DebugN|x86.ActiveCfg = Debug|Win32
+		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.DebugN|x86.Build.0 = Debug|Win32
 		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.Release|x64.ActiveCfg = Release|x64
 		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.Release|x64.Build.0 = Release|x64
 		{27436116-BFC3-4670-8BAD-9187ABDD3F51}.Release|x86.ActiveCfg = Release|Win32
